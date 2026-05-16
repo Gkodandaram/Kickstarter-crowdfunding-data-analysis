@@ -38,31 +38,9 @@ The same dataset was analyzed consistently across **four industry-standard tools
 
 ## 📸 Dashboard Screenshots
 
-### 📗 Excel Dashboard
 
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![ALL DATA FILES ]https://drive.google.com/drive/folders/1KST7FXdyG92qF9mPhNq1G9kP3SQBVdJr?usp=drive_link
 
-### ⚡ Power BI — Crowdfunding Overview
-
-![Power BI Dashboard 1](screenshots/powerbi_dashboard_1.png)
-
-### ⚡ Power BI — Success Projects Detail
-
-![Power BI Dashboard 2](screenshots/powerbi_dashboard_2.png)
-
-### 🗄️ SQL — Project Outcomes Query
-
-![SQL Query 1](screenshots/sql_query_1.png)
-
-### 🗄️ SQL — Projects by Country Query
-
-![SQL Query 2](screenshots/sql_query_2.png)
-
-### 🗄️ SQL — Projects by Category Query
-
-![SQL Query 3](screenshots/sql_query_3.png)
-
----
 
 ## 🛠️ Tools & Files
 
